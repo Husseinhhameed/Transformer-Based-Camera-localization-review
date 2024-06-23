@@ -1,6 +1,6 @@
 # Abstract of "AtLoc: Attention Guided Camera Localization"
 
-![AtLoc Model Structure]([path_to_your_image.png](https://github.com/Husseinhhameed/Transformer-Based-Camera-localization-review/blob/main/AtLock.png))
+![AtLoc Model Structure](https://github.com/Husseinhhameed/Transformer-Based-Camera-localization-review/blob/main/AtLock.png))
 
 ## Problem Statement
 
