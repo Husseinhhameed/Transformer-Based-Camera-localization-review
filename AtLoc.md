@@ -1,5 +1,7 @@
 # Abstract of "AtLoc: Attention Guided Camera Localization"
 
+![AtLoc Model Structure]([path_to_your_image.png](https://github.com/Husseinhhameed/Transformer-Based-Camera-localization-review/blob/main/AtLock.png))
+
 ## Problem Statement
 
 Camera localization, the task of determining the 3D position and orientation of a camera from an image, is crucial for many applications like augmented reality, autonomous driving, and robotics. Traditional single-image methods suffer from a lack of robustness due to dynamic objects and varying illumination conditions, which lead to large localization errors. These challenges are typically addressed by using multi-image sequences or geometric constraints, but these methods can be complex and less efficient.
