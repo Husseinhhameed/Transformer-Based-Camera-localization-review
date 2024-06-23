@@ -65,30 +65,30 @@ AtLoc presents a robust and efficient solution for camera localization using a s
 - **Modifications**:
   - Remove the final classification layer.
   - Replace with a 2048-dimensional fully-connected layer.
-- **Output**: Feature vector \( x \in \mathbb{R}^{2048} \).
+- **Output**: Feature vector $( x \in \mathbb{R}^{2048} \)$.
 
 ### 2. Attention Module
 
 - **Self-Attention Mechanism**:
-  - Compute dot-product similarities $( S(x_i, x_j) = \theta(x_i)^T \phi(x_j) \) where \( \theta(x_i) \) and \( \phi(x_j) \)$ are linear transformations of features at positions \( i \) and \( j \).
+  - Compute dot-product similarities $( S(x_i, x_j) = \theta(x_i)^T \phi(x_j) \) where \( \theta(x_i) \) and \( \phi(x_j) \)$ are linear transformations of features at positions $( i \)$ and $( j \)$.
   - Normalize similarities to form an attention map.
-  - Compute attention vectors \( y_i \) by weighting features \( g(x_j) \) based on the attention map.
+  - Compute attention vectors $( y_i \)$ by weighting features $( g(x_j) \)$ based on the attention map.
 - **Residual Connection**:
   - Add a residual connection to combine the original and attention-guided features.
-  - Final attention-guided features \( \text{Att}(x) = \alpha(y) + x \), where \( \alpha(y) \) is a linear embedding of attention vectors.
+  - Final attention-guided features $( \text{Att}(x) = \alpha(y) + x \)$, where $( \alpha(y) \)$ is a linear embedding of attention vectors.
 
 ### 3. Pose Regressor
 
 - **MLP Structure**:
-  - Takes the attention-guided feature map \( \text{Att}(x) \).
-  - Maps it to the 3D position \( p \in \mathbb{R}^3 \) and 4D orientation (quaternion) \( q \in \mathbb{R}^4 \).
+  - Takes the attention-guided feature map $( \text{Att}(x) \)$.
+  - Maps it to the 3D position $( p \in \mathbb{R}^3 \)$ and 4D orientation (quaternion) $( q \in \mathbb{R}^4 \)$.
 - **Loss Function**:
   - L1 Loss for position and rotation: 
-    \[
+    $[
     \text{loss}(I) = \| p - \hat{p} \|_1 e^{-\beta} + \beta + \| \log q - \log \hat{q} \|_1 e^{-\gamma} + \gamma
-    \]
-    with learnable weights \( \beta \) and \( \gamma \).
-  - Logarithmic form of quaternion \( \log q \) used to handle quaternion antipodality.
+    \]$
+    with learnable weights $( \beta \)$ and $( \gamma \)$.
+  - Logarithmic form of quaternion $( \log q \)$ used to handle quaternion antipodality.
 
 By integrating these components, AtLoc effectively leverages attention mechanisms to enhance the robustness and accuracy of camera localization tasks using a single image input.
-```
+
