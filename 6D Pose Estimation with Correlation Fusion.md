@@ -1,6 +1,6 @@
 # Abstract of "6D Pose Estimation with Correlation Fusion"
 
-![Correlation Fusion Framework](https://github.com/Husseinhhameed/Transformer-Based-Camera-localization-review/blob/main/correlation%20fusion.png)
+![Correlation Fusion Framework](https://github.com/Husseinhhameed/Transformer-Based-Camera-localization-review/blob/main/images/correlation%20fusion.png)
 
 ## Problem Statement
 
