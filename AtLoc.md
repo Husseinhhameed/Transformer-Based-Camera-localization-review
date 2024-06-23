@@ -1,4 +1,3 @@
-```markdown
 # Abstract of "AtLoc: Attention Guided Camera Localization"
 
 ## Problem Statement
