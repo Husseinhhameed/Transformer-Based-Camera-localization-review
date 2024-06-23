@@ -70,7 +70,7 @@ AtLoc presents a robust and efficient solution for camera localization using a s
 ### 2. Attention Module
 
 - **Self-Attention Mechanism**:
-  - Compute dot-product similarities \( S(x_i, x_j) = \theta(x_i)^T \phi(x_j) \) where \( \theta(x_i) \) and \( \phi(x_j) \) are linear transformations of features at positions \( i \) and \( j \).
+  - Compute dot-product similarities $ \( S(x_i, x_j) = \theta(x_i)^T \phi(x_j) \) where \( \theta(x_i) \) and \( \phi(x_j) \) $ are linear transformations of features at positions \( i \) and \( j \).
   - Normalize similarities to form an attention map.
   - Compute attention vectors \( y_i \) by weighting features \( g(x_j) \) based on the attention map.
 - **Residual Connection**:
