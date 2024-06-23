@@ -1,6 +1,6 @@
 # Abstract of "Paying Attention to Activation Maps in Camera Pose Regression"
 
-![TransPoseNet Framework](https://github.com/Husseinhhameed/Transformer-Based-Camera-localization-review/blob/main/Activation%20Maps.png)
+![TransPoseNet Framework](https://github.com/Husseinhhameed/Transformer-Based-Camera-localization-review/blob/main/images/Activation%20Maps.png)
 
 ## Problem Statement
 
