@@ -1,4 +1,4 @@
-*Abstract of "TransAPR: Absolute Camera Pose Regression With Spatial and Temporal Attention"*
+# Abstract of "TransAPR: Absolute Camera Pose Regression With Spatial and Temporal Attention"#
 
 ![Model Architecture](https://github.com/Husseinhhameed/Transformer-Based-Camera-localization-review/blob/main/images/TransAPR.png)
 
