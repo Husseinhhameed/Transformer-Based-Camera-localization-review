@@ -3,7 +3,7 @@ This repository provides a comprehensive literature review on the role of transf
 
 # Transformer-based Camera Localization Review
 
-| Title | Publication Year | Author | DOI | Repository |
+| Title | Publication Year | Author | DOI | Abstract |
 |-------|------------------|--------|-----|------------|
 | AtLoc: Attention Guided Camera Localization | 2020 | Wang, Bing; Chen, Changhao; Xiaoxuan Lu, Chris... | [10.1609/aaai.v34i06.6608](https://ojs.aaai.org/index.php/AAAI/article/view/6608) | [Repository](https://github.com/dummy/repo1) |
 | TransBoNet: Learning camera localization with... | 2024 | Song, Xiaogang; Li, Hongjuan; Liang, Li; Shi, ... | [10.1016/j.patcog.2023.109975](https://linkinghub.elsevier.com/retrieve/pii/S0031320323002456) | [Repository](https://github.com/dummy/repo2) |
