@@ -83,7 +83,7 @@ EAAINet provides a robust and efficient solution for visual localization by inte
 
 ### Optimization
 
-- **Optimizer:** Adam optimizer with an initial learning rate of \(2 \times 10^{-4}\).
+- **Optimizer:** Adam optimizer with an initial learning rate of $(2 \times 10^{-4}\)$.
 - **Training:** Conducted for 400 epochs with a batch size of 4, using data augmentation to prevent overfitting.
 
 ### Data Augmentation
