@@ -3,7 +3,7 @@ This repository provides a comprehensive literature review on the role of transf
 
 # Transformer-based Camera Localization Review
 
-| Title | Publication Year | Author | DOI | Abstract | Repository |
+| Title | Publication Year | Author | DOI  | Repository |
 |-------|------------------|--------|-----|----------|------------|
 | AtLoc: Attention Guided Camera Localization | 2020 | Wang, Bing; Chen, Changhao; Xiaoxuan Lu, Chris... | [10.1609/aaai.v34i06.6608](https://ojs.aaai.org/index.php/AAAI/article/view/6608) | Attention-based models have shown significant improvements in various computer vision tasks. In this work, we propose AtLoc, a novel attention-guided model for camera localization. |  |
 | TransBoNet: Learning camera localization with... | 2024 | Song, Xiaogang; Li, Hongjuan; Liang, Li; Shi, ... | [10.1016/j.patcog.2023.109975](https://linkinghub.elsevier.com/retrieve/pii/S0031320323002456) | This paper presents TransBoNet, a transformer-based neural network designed to improve the accuracy of camera localization tasks through the use of robust feature extraction and pose estimation techniques. |  |
