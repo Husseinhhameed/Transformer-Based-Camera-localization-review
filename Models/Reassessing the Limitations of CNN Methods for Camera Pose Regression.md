@@ -1,6 +1,6 @@
 # Abstract of "Reassessing the Limitations of CNN Methods for Camera Pose Regression"
 
-![Model Structure](path_to_your_image.png)
+![Model Structure](https://github.com/Husseinhhameed/Transformer-Based-Camera-localization-review/blob/main/images/Reassessing.png)
 
 ## Problem Statement
 
@@ -71,7 +71,7 @@ The proposed model comprises the following key components:
 
 ### 4. Loss Function
 
-- The loss function combines position loss (\( L_x \)) and orientation loss (\( L_q \)), with learnable parameters to balance the two.
+- The loss function combines position loss $( L_x \)$ and orientation loss $( L_q \)$, with learnable parameters to balance the two.
 
 ## Training and Implementation
 
