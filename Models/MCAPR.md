@@ -65,9 +65,9 @@ MCAPR presents a robust and efficient solution for multi-scene absolute pose reg
 
 ### 4. Loss Function
 
-- **Position Error:** \( L_x = \| x_{gt} - x \|_2 \)
-- **Orientation Error:** \( L_q = \left\| q_{gt} - \frac{q}{\|q\|} \right\|_2 \)
-- **Combined Loss:** \( L_p = L_x \exp(-\alpha) + \alpha + L_q \exp(-\beta) + \beta + \text{NLL}(s, s_{gt}) \)
+- **Position Error:** $( L_x = \| x_{gt} - x \|_2 \)$
+- **Orientation Error:** $( L_q = \left\| q_{gt} - \frac{q}{\|q\|} \right\|_2 \)$
+- **Combined Loss:** $( L_p = L_x \exp(-\alpha) + \alpha + L_q \exp(-\beta) + \beta + \text{NLL}(s, s_{gt}) \)$
 
 ## Training and Implementation
 
