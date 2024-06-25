@@ -75,7 +75,7 @@ HSCNet++ provides a robust and efficient solution for visual localization by lev
 
 ### Optimization
 
-- **Optimizer:** Adam optimizer with an initial learning rate of \(10^{-4}\).
+- **Optimizer:** Adam optimizer with an initial learning rate of $(10^{-4}\)$.
 - **Training:** Conducted for 300K iterations for individual scenes and 900K iterations for combined scenes.
 
 ### Data Augmentation
