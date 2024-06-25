@@ -3,7 +3,7 @@ This repository provides a comprehensive literature review on the role of transf
 
 # Transformer-based Camera Localization Review
 
-| Title | Publication Year | Author | DOI | Abstract |
+| Title | Publication Year | Author | DOI - arvix ID | Abstract |
 |-------|------------------|--------|-----|------------|
 | AtLoc: Attention Guided Camera Localization | 2020 | Wang, Bing; Chen, Changhao; Xiaoxuan Lu, Chris... | [10.1609/aaai.v34i06.6608](https://ojs.aaai.org/index.php/AAAI/article/view/6608) | [Click Here](https://github.com/Husseinhhameed/Transformer-Based-Camera-localization-review/blob/main/Models/AtLoc.md) |
 | 6D Pose Estimation with Correlation Fusion | 2021 | Cheng, Zhu; Sun, Acar; Jing, ... | [10.1109/ICPR48806.2021.9412238](https://ieeexplore.ieee.org/document/9412238) | [Click Here](https://github.com/Husseinhhameed/Transformer-Based-Camera-localization-review/blob/main/Models/6D%20Pose%20Estimation%20with%20Correlation%20Fusion.md) |
