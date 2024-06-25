@@ -73,7 +73,7 @@ MSFA-T presents a robust and efficient solution for sparse feature matching in l
 
 ### Optimization
 
-- **Optimizer:** Adam optimizer with an initial learning rate of \(1 \times 10^{-3}\) and a batch size of 64.
+- **Optimizer:** Adam optimizer with an initial learning rate of $(1 \times 10^{-3}\)$ and a batch size of 64.
 
 ### Data Augmentation
 
