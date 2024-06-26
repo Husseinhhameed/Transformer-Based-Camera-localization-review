@@ -87,4 +87,4 @@ The proposed model comprises the following key components:
 
 - Implemented in PyTorch and trained on a machine with an Intel i7 processor and Nvidia GeForce GPU.
 
-By addressing the limitations of CNN-based regression methods and leveraging a transformer architecture, this approach offers a more robust and accurate solution for camera pose estimation in various environments.
+
