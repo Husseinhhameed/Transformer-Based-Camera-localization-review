@@ -111,4 +111,4 @@ The CF framework consists of several key components:
   - Refiner network iteratively refines the pose estimation by integrating correlation modeling at each step.
   - Final pose estimation after K iterations is obtained as $( \hat{P} = [R_K|T_K] \cdot [R_{K-1}|T_{K-1}] \cdot ... \cdot [R_0|T_0] \)$.
 
-By integrating these components, the Correlation Fusion framework effectively leverages intra- and inter-modality correlations within RGB and depth data, resulting in robust and accurate 6D pose estimation for various applications in robotics and beyond.
+
