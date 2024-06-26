@@ -86,4 +86,4 @@ HSCNet++ provides a robust and efficient solution for visual localization by lev
 
 - **Implementation:** Developed in PyTorch, trained on NVIDIA A100 GPUs.
 
-By leveraging hierarchical scene coordinate classification and regression with transformer-based conditioning, HSCNet++ sets a new standard in visual localization, offering robust, efficient, and accurate pose estimation in large and complex environments.
+
