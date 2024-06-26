@@ -94,4 +94,4 @@ EAAINet provides a robust and efficient solution for visual localization by inte
 
 - **Implementation:** Developed in PyTorch, trained on an Intel Core i7-9700K CPU with a single NVIDIA TITAN RTX GPU.
 
-By leveraging the novel GAAM and EAM modules, EAAINet achieves state-of-the-art visual localization performance with reduced model parameters and faster inference speed, setting a new standard in the field.
+
