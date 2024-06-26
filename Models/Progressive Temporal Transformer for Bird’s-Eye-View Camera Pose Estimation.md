@@ -85,4 +85,4 @@ PTFormer offers a robust and accurate solution for BEV camera pose estimation, h
 
 - **Implementation:** Developed in PyTorch, trained on a single NVIDIA Tesla A100 GPU.
 
-By leveraging temporal aggregation and inner attention mechanisms, PTFormer effectively improves the accuracy of BEV camera pose estimation, setting a new benchmark for the field.
+
