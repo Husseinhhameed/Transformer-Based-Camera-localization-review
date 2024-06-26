@@ -88,4 +88,4 @@ VMLoc presents a robust and efficient solution for multimodal camera localizatio
 
 - **Implementation:** Developed in PyTorch, trained on NVIDIA Titan V GPUs.
 
-By leveraging variational fusion and attention mechanisms, VMLoc provides a robust, efficient, and accurate solution for multimodal camera localization in diverse environments.
+
