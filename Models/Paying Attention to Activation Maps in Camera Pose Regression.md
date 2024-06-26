@@ -128,4 +128,4 @@ The proposed framework, named TransPoseNet, consists of the following components
 
 - Models trained on a single NVIDIA Tesla V100 GPU using PyTorch framework.
 
-By leveraging the dual Transformer encoder architecture and attention mechanism, TransPoseNet effectively improves the accuracy of camera pose regression, offering a robust and efficient solution for various computer vision applications.
+
