@@ -102,4 +102,3 @@ SAM-Net presents a robust and efficient solution for self-supervised depth and c
 
 - **Implementation:** Developed in PyTorch, trained on NVIDIA Tesla V100 GPUs.
 
-By leveraging semantic probabilistic and attention mechanisms, SAM-Net provides a robust, efficient, and accurate solution for depth and pose estimation in dynamic environments.
