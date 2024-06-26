@@ -92,5 +92,5 @@ AtLoc presents a robust and efficient solution for camera localization using a s
     with learnable weights $( \beta \)$ and $( \gamma \)$.
   - Logarithmic form of quaternion $( \log q \)$ used to handle quaternion antipodality.
 
-By integrating these components, AtLoc effectively leverages attention mechanisms to enhance the robustness and accuracy of camera localization tasks using a single image input.
+
 
