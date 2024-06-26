@@ -90,4 +90,4 @@ GTCaR comprises several key components:
 
 - Implemented in PyTorch, trained on a machine with Intel i7 processor and Nvidia GeForce GPU.
 
-By leveraging graph transformer layers and a dynamic adjacency tensor, GTCaR effectively addresses the challenges in camera re-localization, offering a robust, efficient, and accurate solution for various computer vision applications.
+
