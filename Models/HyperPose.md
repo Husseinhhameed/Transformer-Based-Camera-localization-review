@@ -84,4 +84,4 @@ HyperPose presents a robust and efficient solution for camera pose localization 
 
 - **Implementation:** Developed in PyTorch, trained on NVIDIA 2080Ti GPUs.
 
-By leveraging attention hypernetworks and a dual attention-based approach, HyperPose provides a robust, efficient, and accurate solution for camera pose localization in various computer vision applications.
+
