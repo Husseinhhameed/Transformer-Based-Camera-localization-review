@@ -110,4 +110,3 @@ The proposed structure-guided camera localization method effectively enhances po
 
 - **Implementation:** Developed in PyTorch, trained on an Intel i7 processor and Nvidia GeForce GPU.
 
-By leveraging depth and edge information, this structure-guided approach significantly enhances the accuracy and robustness of indoor camera localization, setting a new benchmark for the field.
