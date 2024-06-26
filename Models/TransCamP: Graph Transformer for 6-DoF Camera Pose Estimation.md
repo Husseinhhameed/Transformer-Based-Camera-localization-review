@@ -97,5 +97,5 @@ TransCamP comprises several key components:
   - Rescaling, cropping, and normalization of input images.
 - **Hardware:** Implemented in PyTorch, trained on a machine with Intel i7 processor and Nvidia GeForce GPU.
 
-By leveraging graph transformer layers and a tensorized adjacency matrix, TransCamP effectively addresses the challenges in 6-DoF camera pose estimation, offering a robust, efficient, and accurate solution for various computer vision applications.
+
 
