@@ -92,4 +92,4 @@ CSA6D presents a robust and efficient solution for 6D object pose estimation by 
 
 - **Implementation:** Developed in PyTorch, trained on NVIDIA Tesla V100 GPUs.
 
-By leveraging channel and spatial attention mechanisms, CSA6D provides a robust, efficient, and accurate solution for 6D object pose estimation in various computer vision applications.
+
