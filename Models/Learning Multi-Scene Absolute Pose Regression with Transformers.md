@@ -84,4 +84,4 @@ The proposed model consists of several components:
 
 - Implemented in PyTorch, trained on an Nvidia GeForce GTX 1080 GPU.
 
-By leveraging transformers for multi-scene absolute pose regression, this approach addresses the limitations of traditional APRs, offering a robust, efficient, and accurate solution for camera pose estimation in diverse environments.
+
