@@ -106,4 +106,4 @@ The proposed network integrates low-level and high-level feature maps for a more
 
 - **Implementation:** Developed in PyTorch, trained on an Intel Core i7-9700K CPU with a single NVIDIA TITAN RTX GPU.
 
-By leveraging the deep feature aggregation module and CoordConv scheme, this network provides a robust, efficient, and accurate solution for indoor camera localization.
+
