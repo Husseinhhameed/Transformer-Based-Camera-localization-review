@@ -77,4 +77,4 @@ CoVisPose consists of several key components:
 - Trained in PyTorch on NVIDIA Tesla V100 GPUs, with random rotational augmentation and panorama pair order swapping.
 - Uses Adam optimizer with a learning rate of 0.0001, and selects the best model based on validation loss.
 
-By leveraging transformers and dense column-wise representations, CoVisPose provides a robust, efficient, and accurate solution for relative pose estimation in 360° indoor panoramas, setting a new benchmark in the field.
+
