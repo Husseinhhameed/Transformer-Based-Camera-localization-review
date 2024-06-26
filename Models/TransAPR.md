@@ -79,5 +79,5 @@ The TransAPR model consists of several key components:
 - **Data Augmentation:** Includes rescaling, cropping, and normalization of input images.
 - **Hardware:** Implemented in PyTorch, trained on an NVIDIA GeForce GTX 1080 GPU.
 
-By leveraging spatial and temporal attention mechanisms and hierarchical feature aggregation, TransAPR provides a robust and accurate solution for absolute camera pose regression, setting a new benchmark in the field.
+
 
