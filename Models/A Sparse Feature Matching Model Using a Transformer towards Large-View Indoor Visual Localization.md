@@ -83,4 +83,4 @@ MSFA-T presents a robust and efficient solution for sparse feature matching in l
 
 - **Implementation:** Developed in PyTorch, trained on NVIDIA GPUs.
 
-By leveraging the multiscale forward attention mechanism and semantic mapping for coarse matching, MSFA-T provides a robust, efficient, and accurate solution for indoor visual localization in large view scenes.
+
