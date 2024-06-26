@@ -84,4 +84,4 @@ MCAPR presents a robust and efficient solution for multi-scene absolute pose reg
 
 - **Implementation:** Developed in PyTorch, trained on a 40GB NVIDIA A100 GPU.
 
-By leveraging cross-attention transformers and multi-modality data fusion, MCAPR provides a robust, efficient, and accurate solution for indoor visual localization in multiple scenes.
+
