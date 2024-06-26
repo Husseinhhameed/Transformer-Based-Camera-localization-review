@@ -67,4 +67,4 @@ FAR consists of several key components:
 - **Data Augmentation:** Includes rescaling, cropping, and normalization of input images.
 - **Hardware:** Implemented in PyTorch, trained on Nvidia GPUs.
 
-By combining the strengths of learned and classical methods, FAR offers a robust, efficient, and accurate solution for relative camera pose estimation in diverse computer vision applications.
+
