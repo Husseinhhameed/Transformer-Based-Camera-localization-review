@@ -79,4 +79,4 @@ Camera Pose Auto-Encoders (PAEs) provide a robust and efficient solution for imp
 
 - **Implementation:** Developed in PyTorch, trained on NVIDIA GeForce GTX 1080 GPU.
 
-By leveraging the Teacher-Student approach and test-time optimization, PAEs provide a robust, efficient, and accurate solution for improving pose regression in various computer vision applications.
+
