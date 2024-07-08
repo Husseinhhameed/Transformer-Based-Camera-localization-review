@@ -1,6 +1,6 @@
 ## NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization
 
-![MSFA-T Architecture](https://github.com/Husseinhhameed/Transformer-Based-Camera-localization-review/blob/main/images/NeuMap.png
+![MSFA-T Architecture](https://github.com/Husseinhhameed/Transformer-Based-Camera-localization-review/blob/main/images/NeuMap.png)
 
 ### Problem Statement
 Visual localization, which determines camera position and orientation based on image observations, is critical for applications such as VR/AR and self-driving cars. Existing methods, especially those relying on large databases of keypoints and 3D point clouds, face challenges in terms of storage size and performance under high compression rates. These methods also struggle with large viewpoint and illumination changes, leading to reduced robustness and accuracy.
